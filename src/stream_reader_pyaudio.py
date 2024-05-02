@@ -3,7 +3,8 @@ import pyaudio
 import time, sys, math
 from collections import deque
 
-from src.utils import *
+#from src.utils import *
+from utils import *
 
 class Stream_Reader:
     """
